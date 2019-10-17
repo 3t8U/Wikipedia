@@ -1,0 +1,20 @@
+.container {
+  border: solid;
+}
+
+#Neville {
+  float: left;
+  margin: 10px;
+}
+
+#hannah {
+  float: right;
+}
+
+#Moreno {
+  float: right;
+}
+
+#Nativity {
+  float: right;
+}
